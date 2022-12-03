@@ -1,0 +1,115 @@
+2022-12-02 08:04:14,441 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 42900 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 08:04:14,443 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 08:04:15,255 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 08:04:15,255 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 08:04:15,319 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 08:04:15,419 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 08:04:15,443 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 08:04:15,523 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 08:04:15,582 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 08:04:15,780 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@573aeab2
+2022-12-02 08:04:15,781 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 08:04:15,813 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 08:04:16,264 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 08:04:16,771 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.696 seconds (process running for 3.1)
+2022-12-02 08:05:08,849 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 08:05:08,856 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 08:05:53,493 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 43417 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 08:05:53,495 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 08:05:54,319 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 08:05:54,319 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 08:05:54,382 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 08:05:54,483 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 08:05:54,507 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 08:05:54,589 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 08:05:54,647 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 08:05:54,839 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@573aeab2
+2022-12-02 08:05:54,841 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 08:05:54,873 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 08:05:55,355 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 08:05:55,860 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.716 seconds (process running for 3.109)
+2022-12-02 08:07:04,939 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 08:07:04,947 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 08:07:20,327 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 43979 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 08:07:20,330 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 08:07:21,162 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 08:07:21,163 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 08:07:21,219 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 08:07:21,316 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 08:07:21,340 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 08:07:21,421 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 08:07:21,480 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 08:07:21,672 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@573aeab2
+2022-12-02 08:07:21,674 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 08:07:21,707 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 08:07:22,214 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 08:07:22,747 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.769 seconds (process running for 3.217)
+2022-12-02 08:07:23,062 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-7272-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-02 08:07:59,689 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 08:07:59,696 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 08:08:28,436 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 44411 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 08:08:28,438 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 08:08:29,307 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 08:08:29,308 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 08:08:29,371 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 08:08:29,474 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 08:08:29,498 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 08:08:29,580 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 08:08:29,643 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 08:08:29,845 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@437281c5
+2022-12-02 08:08:29,846 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 08:08:29,880 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 08:08:30,345 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 08:08:30,862 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.776 seconds (process running for 3.203)
+2022-12-02 08:08:34,895 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-7272-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-02 08:10:12,788 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 08:10:12,796 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 10:23:59,145 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 53141 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 10:23:59,148 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 10:24:00,029 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 10:24:00,030 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 10:24:00,096 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 10:24:00,201 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 10:24:00,226 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 10:24:00,309 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 10:24:00,372 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 10:24:00,577 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@103c97ff
+2022-12-02 10:24:00,578 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 10:24:00,615 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 10:24:01,188 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 10:24:01,750 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 3.0 seconds (process running for 3.552)
+2022-12-02 10:30:39,382 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-7272-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-02 10:44:13,954 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 10:44:13,962 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 10:44:17,503 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 56310 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 10:44:17,506 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 10:44:18,312 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 10:44:18,313 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 10:44:18,369 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 10:44:18,464 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 10:44:18,488 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 10:44:18,568 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 10:44:18,627 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 10:44:18,825 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1860a7a1
+2022-12-02 10:44:18,827 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 10:44:18,863 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 10:44:19,326 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 10:44:19,845 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.727 seconds (process running for 3.162)
+2022-12-02 10:57:47,533 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 10:57:47,542 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-12-02 10:57:52,352 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Starting OnlineShopTest1Application using Java 17.0.5 with PID 57782 (/home/alijenab/IdeaProjects/online-shop-test-1/target/classes started by alijenab in /home/alijenab/IdeaProjects/online-shop-test-1)
+2022-12-02 10:57:52,354 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-02 10:57:53,194 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-12-02 10:57:53,195 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-02 10:57:53,284 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-12-02 10:57:53,380 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-02 10:57:53,404 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-02 10:57:53,480 WARN org.hibernate.orm.deprecation [main] HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-02 10:57:53,539 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-02 10:57:53,733 INFO com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@782fd504
+2022-12-02 10:57:53,734 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-02 10:57:53,768 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-12-02 10:57:54,277 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-02 10:57:54,909 INFO com.example.onlineshoptest1.OnlineShopTest1Application [main] Started OnlineShopTest1Application in 2.959 seconds (process running for 3.401)
+2022-12-02 10:58:23,049 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-12-02 10:58:23,057 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
